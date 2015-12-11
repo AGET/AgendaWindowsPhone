@@ -1,0 +1,15 @@
+c:\users\aldo\documents\visual studio 2012\Projects\AdminPersonas\AdminPersonas\Bin\Debug\ApplicationIcon.png
+c:\users\aldo\documents\visual studio 2012\Projects\AdminPersonas\AdminPersonas\Bin\Debug\Background.png
+c:\users\aldo\documents\visual studio 2012\Projects\AdminPersonas\AdminPersonas\Bin\Debug\AdminPersonas.dll
+c:\users\aldo\documents\visual studio 2012\Projects\AdminPersonas\AdminPersonas\Bin\Debug\AdminPersonas.pdb
+c:\users\aldo\documents\visual studio 2012\Projects\AdminPersonas\AdminPersonas\Bin\Debug\AppManifest.xaml
+c:\users\aldo\documents\visual studio 2012\Projects\AdminPersonas\AdminPersonas\Bin\Debug\AdminPersonas.xap
+c:\users\aldo\documents\visual studio 2012\Projects\AdminPersonas\AdminPersonas\obj\Debug\AdminPersonas.csprojResolveAssemblyReference.cache
+c:\users\aldo\documents\visual studio 2012\Projects\AdminPersonas\AdminPersonas\obj\Debug\App.g.cs
+c:\users\aldo\documents\visual studio 2012\Projects\AdminPersonas\AdminPersonas\obj\Debug\MainPage.g.cs
+c:\users\aldo\documents\visual studio 2012\Projects\AdminPersonas\AdminPersonas\obj\Debug\AdminPersonas.g.resources
+c:\users\aldo\documents\visual studio 2012\Projects\AdminPersonas\AdminPersonas\obj\Debug\AdminPersonas.dll
+c:\users\aldo\documents\visual studio 2012\Projects\AdminPersonas\AdminPersonas\obj\Debug\AdminPersonas.pdb
+c:\users\aldo\documents\visual studio 2012\Projects\AdminPersonas\AdminPersonas\obj\Debug\XapCacheFile.xml
+C:\Users\aldo\documents\visual studio 2012\Projects\AdminPersonas\AdminPersonas\obj\Debug\Modificar.g.cs
+C:\Users\aldo\documents\visual studio 2012\Projects\AdminPersonas\AdminPersonas\obj\Debug\MostrarDatos.g.cs
